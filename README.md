@@ -1,2 +1,4 @@
 # NoName
-repository creation for practice use
+Repository creation for practice use
+Making first ever git repository example.
+
