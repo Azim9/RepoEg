@@ -1,7 +1,12 @@
 # RepoEg
-## Syntax
+## HEADER 2
+### HEADER 3
+#### HEADER 4
+##### HEADER 5
 
-Repository creation for practice use. Making first ever git repository example.
+Repository creation for practice use. 
+
+Making first ever git repository example.
 
 - 1
 - 2
@@ -10,8 +15,12 @@ Repository creation for practice use. Making first ever git repository example.
 
 ```
 Block of something goes here
+
 ```
 
 Embeed LaTex or MathMl equations use
 
-$\frac{1}{n} \ sum_{i=1}^{n} x_{n}$
+*italic* 
+
+**bold** 
+
